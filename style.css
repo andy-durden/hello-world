@@ -1,0 +1,29 @@
+body { 
+   background-color:#888888; 
+   color: #000000; 
+   margin: 0; 
+   padding: 0; 
+} 
+#top { 
+   width: 1180px; 
+} 
+#NAGLOWEK { 
+   background-color: #888878; 
+} 
+#MENU { 
+   width: 390px; 
+   float: left; 
+   overflow: hidden; 
+   background-color: #C7C777; 
+} 
+#TRESC { 
+   width: 900px; 
+   float: left; 
+   overflow: hidden; 
+   background-color: RED; 
+} 
+#STOPKA { 
+   clear: both; 
+   width: 100%; 
+   background-color: #888888; 
+} 
